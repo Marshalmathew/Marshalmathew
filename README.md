@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning python.
-- - 👯 I’m looking to collaborate on any python or data science projects.
+ 🌱 I’m currently learning python.
+👯 I’m looking to collaborate on any python or data science projects.
